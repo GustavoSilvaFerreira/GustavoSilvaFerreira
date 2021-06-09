@@ -1,8 +1,25 @@
-### Hi there 👋
+### Welcome my GitHub 👋
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilvaFerreira&theme=blue-green)
+<br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoSilvaFerreira&theme=blue-green)](https://github.com/GustavoSilvaFerreira/github-readme-stats)
+### Where to find me:
+
+<a href="https://www.linkedin.com/in/gustavo-s-ferreira/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:guto7626@hotmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+
+<br/>
+
+## Top Languages
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilvaFerreira&theme=blue-green" alt="GustavoSilvaFerreira's github Languages" />
+</p>
 
 <br/>
 
@@ -11,15 +28,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSilvaFerreira&show_icons=true&theme=blue" alt="GustavoSilvaFerreira's github stats" />
-</p>
-
-<br/>
-
-<p align="right">
-  <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=GustavoSilvaFerreira.GustavoSilvaFerreira" />
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSilvaFerreira&show_icons=true&theme=blue-green" alt="GustavoSilvaFerreira's github stats" />
 </p>
 
 <!--
