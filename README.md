@@ -1,10 +1,8 @@
 ### Welcome my GitHub 👋
 
-<br/>
-
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/gustavo-s-ferreira/">
+<a href="https://www.linkedin.com/in/gustavo-s-ferreira/" target="_blank">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
@@ -14,20 +12,20 @@
 
 <br/>
 
-## Top Languages
+### Top Languages
 
 <br/>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilvaFerreira&theme=blue-green" alt="GustavoSilvaFerreira's github Languages" />
 </p>
 
 <br/>
 
-## Coding Activity
+### Coding Activity
 
 <br/>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoSilvaFerreira&show_icons=true&theme=blue-green" alt="GustavoSilvaFerreira's github stats" />
 </p>
 
