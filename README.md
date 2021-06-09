@@ -1,6 +1,6 @@
-### Welcome my GitHub 👋
+## Welcome my GitHub 👋
 
-### Where to find me:
+## Where to find me:
 
 <a href="https://www.linkedin.com/in/gustavo-s-ferreira/" target="_blank">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
@@ -12,7 +12,7 @@
 
 <br/>
 
-### Top Languages
+## Top Languages
 
 <br/>
 <p>
@@ -21,7 +21,7 @@
 
 <br/>
 
-### Coding Activity
+## Coding Activity
 
 <br/>
 
