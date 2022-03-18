@@ -3,7 +3,7 @@
 ## Where to find me:
 
 <a href="https://www.linkedin.com/in/gustavo-s-ferreira/" target="_blank">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647613827~hmac=df19595671d5af900e3e17d182745431" /></code>
 </a>
 
 <a href="mailto:guto7626@hotmail.com">
