@@ -7,7 +7,7 @@
 </a>
 
 <a href="mailto:guto7626@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/4698/4698190.png" /></code>
 </a>
 
 <br/>
